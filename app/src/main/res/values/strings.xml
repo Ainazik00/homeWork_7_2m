@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">homeWork_7_2m</string>
+    <string name="numberOne">1</string>
+    <string name="numberTwo">2</string>
+    <string name="number3">3</string>
+    <string name="numberFour">4</string>
+    <string name="numberFive">5</string>
+    <string name="numberSix">6</string>
+    <string name="numberSeven">7</string>
+    <string name="numberEight">8</string>
+    <string name="numberNine">9</string>
+    <string name="operationAc">AC</string>
+    <string name="operationPlusAndMinus">+/-</string>
+    <string name="operationprs">%</string>
+    <string name="operationDivision">÷</string>
+    <string name="operationMultiplication">x</string>
+    <string name="operationMinus">-</string>
+    <string name="operationPlus">+</string>
+    <string name="operationEguals">=</string>
+    <string name="operationDot">.</string>
+    <string name="operationZero">0</string>
+</resources>
